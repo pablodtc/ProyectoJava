@@ -16,7 +16,8 @@ public class Example1{
 
         int y = ex1.updatePrice(ex1, newPrice);
 
-        System.out.println(ex1.price);
         System.out.println(y);
+
+        System.out.println("Hola Mundo");
     }
 }
